@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 </a>
 
 <a>
-<br />
-
-Привет, меня зовут Даниил. Сейчас учусь на Data Scientist'а. Изучаю Git, Python, SQL, Tableau и ещё несколько интересных технологий.
-
+<br />Привет, меня зовут Даниил. Сейчас я работаю системным аналитиком и самостоятельно погружаюсь в Data Science. Изучаю Python, PyTorch, PySpark, Airflow, SQL, Tableau и ещё несколько интересных технологий.
 <br />
 </a>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1400/0*tBpl-eS41qcfLe1a.gif" width="470" height="200" />
